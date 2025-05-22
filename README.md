@@ -5,6 +5,10 @@ Ideal para sesiones de estudio, descansos, trabajo por bloques de tiempo (pomodo
 
 ---
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/541e7664-9474-45ae-a70a-266302fa7747" width="200" alt="Mascota del temporizador">
+</p>
 ## 🚀 Características
 
 - ⌛ Temporizador visible en pantalla con cuenta regresiva.
